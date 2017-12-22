@@ -1,0 +1,16 @@
+{
+  "name": "feed-stats",
+  "version": "1.0.0",
+  "description": "Get stats from price-feeds as CSV files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariano Conti <nanexcool@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "node-fetch": "^1.7.3",
+    "web3": "^1.0.0-beta.27"
+  }
+}
